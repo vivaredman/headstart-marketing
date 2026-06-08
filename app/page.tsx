@@ -293,6 +293,94 @@ export default function Home() {
     </div>
   </div>
 </section>
+{/* Why HeadStart */}
+<section className="py-20 bg-slate-900 text-white">
+  <div className="max-w-6xl mx-auto px-6">
+    <div className="text-center mb-12">
+      <p className="text-amber-400 font-semibold uppercase tracking-wider mb-3">
+        Why Businesses Choose HeadStart
+      </p>
+
+      <h2 className="text-4xl md:text-5xl font-bold mb-5">
+        Executive-level marketing expertise without executive-level costs
+      </h2>
+
+      <p className="text-lg text-slate-300 max-w-3xl mx-auto">
+        Access the experience, strategic thinking and leadership of a senior
+        marketing professional without the overhead of a full-time hire.
+      </p>
+    </div>
+
+    <div className="grid md:grid-cols-3 gap-8">
+      <div className="bg-slate-800 rounded-2xl p-8">
+        <div className="text-amber-400 text-3xl mb-4">✓</div>
+        <h3 className="text-xl font-bold mb-3">
+          15 Years of Experience
+        </h3>
+        <p className="text-slate-300">
+          Benefit from senior-level expertise gained across legal,
+          manufacturing, healthcare, education, sport, SaaS and non-profit
+          sectors.
+        </p>
+      </div>
+
+      <div className="bg-slate-800 rounded-2xl p-8">
+        <div className="text-amber-400 text-3xl mb-4">✓</div>
+        <h3 className="text-xl font-bold mb-3">
+          Less Than the Cost of a Junior Hire
+        </h3>
+        <p className="text-slate-300">
+          Access strategic leadership, planning and execution for less than
+          many businesses spend on an entry-level marketer.
+        </p>
+      </div>
+
+      <div className="bg-slate-800 rounded-2xl p-8">
+        <div className="text-amber-400 text-3xl mb-4">✓</div>
+        <h3 className="text-xl font-bold mb-3">
+          Immediate Impact
+        </h3>
+        <p className="text-slate-300">
+          No lengthy onboarding or learning curve. Start benefiting from
+          proven marketing expertise from day one.
+        </p>
+      </div>
+
+      <div className="bg-slate-800 rounded-2xl p-8">
+        <div className="text-amber-400 text-3xl mb-4">✓</div>
+        <h3 className="text-xl font-bold mb-3">
+          No Recruitment Risk
+        </h3>
+        <p className="text-slate-300">
+          Avoid recruitment fees, probation periods, pension contributions
+          and long-term employment commitments.
+        </p>
+      </div>
+
+      <div className="bg-slate-800 rounded-2xl p-8">
+        <div className="text-amber-400 text-3xl mb-4">✓</div>
+        <h3 className="text-xl font-bold mb-3">
+          Strategic & Hands-On
+        </h3>
+        <p className="text-slate-300">
+          Not just advice. Get strategy, planning, implementation and
+          performance management in one package.
+        </p>
+      </div>
+
+      <div className="bg-slate-800 rounded-2xl p-8">
+        <div className="text-amber-400 text-3xl mb-4">✓</div>
+        <h3 className="text-xl font-bold mb-3">
+          Flexible Engagement
+        </h3>
+        <p className="text-slate-300">
+          Scale support up or down as your business grows without committing
+          to a full-time salary.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
 {/* Additional Services */}
 <section className="py-20 bg-white">
   <div className="max-w-6xl mx-auto px-6">
