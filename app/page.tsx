@@ -46,7 +46,7 @@ export default function Home() {
 
     <div className="relative">
       <Image
-        src="/richard-redman.png"
+        src="/richard-redman.jpeg"
         alt="Richard Redman, Fractional Head of Marketing"
         width={520}
         height={620}
@@ -327,7 +327,7 @@ export default function Home() {
       <div className="bg-slate-800 rounded-2xl p-8">
         <div className="text-amber-400 text-3xl mb-4">✓</div>
         <h3 className="text-xl font-bold mb-3">
-          Less Than the Cost of a Junior Hire
+          Fraction of the Cost of a Full-Time Marketing Leader
         </h3>
         <p className="text-slate-300">
           Access strategic leadership, planning and execution for less than
