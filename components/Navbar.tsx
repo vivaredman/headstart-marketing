@@ -8,12 +8,13 @@ export default function Navbar() {
 
           <div className="flex items-center gap-3">
             <Image
-              src="/headstart-logo.png"
-              alt="HeadStart Marketing"
-              width={180}
-              height={60}
-              priority
-            />
+  src="/headstart-logo.png"
+  alt="HeadStart Marketing"
+  width={240}
+  height={80}
+  className="w-auto h-14 md:h-12"
+  priority
+/>
           </div>
 
           <div className="flex gap-6 text-sm font-bold text-slate-900">
