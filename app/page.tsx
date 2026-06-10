@@ -26,8 +26,28 @@ export default function Home() {
         Get 15 years of marketing experience, strategic direction and hands-on
         execution for less than the cost of a junior marketer.
       </p>
+<div className="my-10 rounded-2xl border border-amber-400/40 bg-slate-800 p-6">
+  <p className="text-amber-400 font-semibold uppercase tracking-wider text-sm mb-2">
+    Free Webinar
+  </p>
 
-      <div className="flex flex-wrap gap-4">
+  <h2 className="text-2xl font-bold mb-3">
+    Why Hiring a Junior Marketer Could Be Costing Your Business Growth
+  </h2>
+
+  <p className="text-slate-300 mb-4">
+    Wednesday 17 June • 12:30pm • Free online event
+  </p>
+
+  <a
+    href="/webinar"
+    className="inline-block bg-amber-500 hover:bg-amber-600 text-slate-900 font-bold px-6 py-3 rounded-xl shadow-lg transition"
+  >
+    Reserve Your Free Place →
+  </a>
+</div>
+
+<div className="flex flex-wrap gap-4">
         <a
           href="#contact"
           className="bg-amber-500 hover:bg-amber-400 text-black font-semibold px-6 py-3 rounded-lg"

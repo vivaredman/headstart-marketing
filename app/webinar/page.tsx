@@ -54,6 +54,11 @@ export default function WebinarPage() {
   method="POST"
   className="space-y-4"
 >
+    <input
+  type="hidden"
+  name="_redirect"
+  value="https://headstart-marketing.co.uk/webinar/thank-you"
+/>
             <input
               type="text"
               name="name"

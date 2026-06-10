@@ -24,10 +24,10 @@ export default function Navbar() {
           </div>
 
           <a
-            href="#contact"
+            href="/webinar"
             className="hidden md:block bg-slate-900 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-slate-800"
           >
-            Free Consultation
+            Free Webinar
           </a>
         </div>
       </div>
