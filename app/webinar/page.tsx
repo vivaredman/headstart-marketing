@@ -59,7 +59,7 @@ export default function WebinarPage() {
               name="name"
               placeholder="Your Name"
               required
-              className="w-full p-3 rounded text-slate-900"
+              className="w-full p-3 rounded bg-white text-slate-900 border border-slate-300"
             />
 
             <input
@@ -67,14 +67,14 @@ export default function WebinarPage() {
               name="email"
               placeholder="Email Address"
               required
-              className="w-full p-3 rounded text-slate-900"
+              className="w-full p-3 rounded bg-white text-slate-900 border border-slate-300"
             />
 
             <input
               type="text"
               name="company"
               placeholder="Company Name"
-              className="w-full p-3 rounded text-slate-900"
+              className="w-full p-3 rounded bg-white text-slate-900 border border-slate-300"
             />
 
             <button
