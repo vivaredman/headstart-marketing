@@ -43,7 +43,29 @@ export default function WebinarPage() {
             <li>✓ Questions to ask before making your next hire</li>
           </ul>
         </div>
+<div className="bg-slate-100 rounded-xl p-6 mb-10">
+  <h2 className="font-bold text-2xl mb-4">
+    Who Is This For?
+  </h2>
 
+  <ul className="space-y-2 mb-6">
+    <li>✓ SME Owners</li>
+    <li>✓ Managing Directors</li>
+    <li>✓ Commercial Directors</li>
+    <li>✓ Businesses considering hiring a marketer</li>
+    <li>✓ Businesses struggling to generate consistent leads</li>
+  </ul>
+
+  <h3 className="font-bold text-xl mb-3">
+    Who Is This Not For?
+  </h3>
+
+  <ul className="space-y-2">
+    <li>✕ Marketing agencies</li>
+    <li>✕ Large in-house marketing teams</li>
+    <li>✕ Students and graduates</li>
+  </ul>
+</div>
         <div className="bg-slate-900 text-white rounded-xl p-8">
           <h2 className="text-3xl font-bold mb-6">
             Reserve Your Place
